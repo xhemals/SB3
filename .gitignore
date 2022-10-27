@@ -168,3 +168,6 @@ cython_debug/
 #Logs and models of learning
 models/
 logs/
+
+#vscode
+.vscode/
